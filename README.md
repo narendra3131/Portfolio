@@ -1,7 +1,7 @@
 # Portfolio
 Portfolio About myself
 
-Part -1 result
+PART -1 result
 
 <img width="1912" height="1007" alt="image" src="https://github.com/user-attachments/assets/db74ad6f-3f3d-4e2a-b521-d86ea42e94e8" />
 
@@ -11,7 +11,11 @@ Part -1 result
 
 
 
-#part-2 result
+
+
+
+
+PART -2 result
 
 
 
